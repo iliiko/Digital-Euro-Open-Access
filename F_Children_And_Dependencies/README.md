@@ -1,10 +1,3 @@
-# Children, Dependents and Joint Accounts
+# F_Children_And_Dependencies
 
-This section contains research, standards, use cases, implementations and datasets related to children, dependents and joint accounts.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.
