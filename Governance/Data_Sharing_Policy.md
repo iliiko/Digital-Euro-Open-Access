@@ -1,3 +1,3 @@
-# Data Sharing Policy
+# Data_Sharing_Policy
 
-Draft document.
+Draft governance document.

@@ -1,10 +1,3 @@
-# Data Sharing and Privacy
+# H_Data_Sharing_Privacy
 
-This section contains research, standards, use cases, implementations and datasets related to data sharing and privacy.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.

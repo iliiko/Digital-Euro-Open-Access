@@ -1,10 +1,3 @@
-# Deposits and Defunding Issues
+# I_Deposits_And_Defunding
 
-This section contains research, standards, use cases, implementations and datasets related to deposits and defunding issues.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.

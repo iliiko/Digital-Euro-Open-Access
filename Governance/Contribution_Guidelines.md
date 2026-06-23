@@ -1,3 +1,3 @@
-# Contribution Guidelines
+# Contribution_Guidelines
 
-Draft document.
+Draft governance document.

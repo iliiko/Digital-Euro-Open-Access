@@ -1,3 +1,3 @@
-# Code of Conduct
+# Code_of_Conduct
 
-Draft document.
+Draft governance document.
