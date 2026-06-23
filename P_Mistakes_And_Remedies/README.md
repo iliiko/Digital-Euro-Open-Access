@@ -1,10 +1,3 @@
-# Mistakes and Remedies
+# P_Mistakes_And_Remedies
 
-This section contains research, standards, use cases, implementations and datasets related to mistakes and remedies.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.

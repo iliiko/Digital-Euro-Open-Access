@@ -1,10 +1,3 @@
-# Conditional Payments, Smart Contracts and Escrows
+# M_Conditional_Payments
 
-This section contains research, standards, use cases, implementations and datasets related to conditional payments, smart contracts and escrows.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.

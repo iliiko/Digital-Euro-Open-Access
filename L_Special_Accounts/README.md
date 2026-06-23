@@ -1,10 +1,3 @@
-# Special Accounts
+# L_Special_Accounts
 
-This section contains research, standards, use cases, implementations and datasets related to special accounts.
-
-## Suggested Subfolders
-- Research
-- Use_Cases
-- Standards
-- Implementations
-- Datasets
+Purpose and scope for this Digital Euro topic.
